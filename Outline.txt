@@ -1,0 +1,46 @@
+﻿Stuff to Do
+1. Java Primer:
+*  Inheritance
+* Interfaces and Abstract Classes
+* Exceptions
+* Casting and Generics
+* Nested Classes. 
+2. Fundamental Data Structures:
+* Arrays
+* Singly-linked lists
+* Circularly linked lists
+* Doubly linked lists
+3. Algorithm Analysis:
+* Asymptotic Analysis
+4. Stacks, Queues, and Deques
+5. List and Iterator ADTs
+6. Trees
+* General trees
+* Binary trees
+* Implementing trees
+* Tree traversal algorithms
+7. Priority Queues
+* The priority queue ADT
+* Implementing a priority queue
+* Heaps
+* Sorting with a priority queue
+* Adaptable priority queue
+8. Maps, Hash Tables, and Skip Lists
+9. Search Trees
+* Binary search trees
+* Balanced search trees
+* AVL trees
+* Splay trees
+* (2,3) trees
+* Red-black trees
+10. Sorting and Selection
+* Merge-sort
+* Quick-sort
+11. Graph Algorithms
+* Graphs
+* Graph traversals
+* Transitive closure
+* Directed Acyclic Graphs
+* Shortest paths
+* Minimum spanning trees
+Reference: Goodrich, M. T., Tamassia, R., & Goldwasser, M. H. (2014). Data structures and algorithms in Java. John Wiley & Sons, Inc.
