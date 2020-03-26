@@ -10,7 +10,7 @@
  * for the 500/- fee. Also included is a method named processMethod that 
  * will assess interest charges 
  */
-public class ExtendCreditCard{
+public class ExtendCreditCard extends CreditCard{
        /**
 	* New instance variable
 	* @param apr  variable to store the annual percentage rate
